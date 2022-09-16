@@ -20,5 +20,10 @@ php artisan key:generate
 
 php artisan serve
 ```
+## credentials
+| Email  | Password |
+| ------------- | ------------- |
+| user@user.com  | 12345  |
+
 ## License
 [haidarijlal](https://github.com/muhamadijlal/)
