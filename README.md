@@ -9,6 +9,8 @@ after that waiting untill the file is finsish download
 
 next step just follow step below
 
+before that make your name db on your local same as file .env
+
 ```python
 php artisan migrate
 
