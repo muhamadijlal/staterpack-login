@@ -18,3 +18,5 @@ php artisan key:generate
 
 php artisan serve
 ```
+## License
+[haidarijlal](https://github.com/muhamadijlal/)
